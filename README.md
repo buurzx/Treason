@@ -1,6 +1,7 @@
 # Reason Tree lib
 
 In this project used Reason to build a tree-cli-like NodeJS tool that lists a directory’s content in the shape of a tree.
+For fun and educational purposes.
 
 # Build
 ```
